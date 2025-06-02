@@ -1,2 +1,2 @@
-# repository_of_student
+# test_123
 Это мой первый учебный репозиторий
